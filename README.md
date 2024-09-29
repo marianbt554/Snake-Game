@@ -27,7 +27,7 @@ This project is a modern, web-based Snake Game built with **Python**, **Flask**,
 ### Setup Instructions:
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/marianbt554/snake-game.git
    cd snake-game
 2. Install the requiered Python packages: pip install Flask
 3. Run the Flask application: python snake.py
